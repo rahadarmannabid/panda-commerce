@@ -1,0 +1,90 @@
+.orange-bg{
+    background-color: rgb(2, 35, 46);
+    color: white;
+
+}
+
+.carousel-item{
+    padding:20px 40px;
+    color:white;
+
+}
+.price{
+    color: white;
+}
+
+.categories{
+    padding:40px 40px;
+    color: white;
+
+}
+.cat1, .cat2 ,.cat3,.card-group  {
+    padding:20px 40px;
+    border-radius: 5px;
+}
+
+.cat1{
+    background-color: aqua;
+    
+
+}
+
+.cat2{
+    background-color: orange;
+
+}
+
+.cat3{
+    background-color: darkblue;
+
+}.categories img{
+    width:100px;
+}
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 20px lightgray;
+    border-radius: 10px;
+    
+}
+
+.container{
+    padding: 40px;
+    padding-bottom: 80px;
+    
+    
+    
+}
+.card-footer{
+    background-color:white;
+    border-top: none;
+    padding: 10px 20px;
+
+}
+
+.subscribe{
+    height: 400px;
+    padding-bottom: 50px!important;
+    
+}
+
+.subscribe h6{
+    color: grey;
+}
+
+footer{
+    text-align: center;
+    background-color: grey;
+    padding: 10px 10px;
+    
+}
+
+.fut{
+
+    padding-top: 10px;
+
+}
+
+.put{
+    padding: 5px 10px 10px 10px;
+}
